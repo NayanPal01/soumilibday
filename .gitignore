@@ -1,0 +1,6 @@
+# Ignore the zip archive (frames already extracted)
+queen_frames_fps.zip
+
+# OS files
+.DS_Store
+Thumbs.db
